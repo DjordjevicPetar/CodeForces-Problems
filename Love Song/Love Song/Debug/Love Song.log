@@ -1,0 +1,4 @@
+﻿  Love Song.cpp
+F:\Petar_Djordjevic\C++\Programi\CodeForces\Love Song\Love Song\Love Song.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+F:\Petar_Djordjevic\C++\Programi\CodeForces\Love Song\Love Song\Love Song.cpp(16,17): warning C4101: 'answer': unreferenced local variable
+  Love Song.vcxproj -> F:\Petar_Djordjevic\C++\Programi\CodeForces\Love Song\Debug\Love Song.exe
