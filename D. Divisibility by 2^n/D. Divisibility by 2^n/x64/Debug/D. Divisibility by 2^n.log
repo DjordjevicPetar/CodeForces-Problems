@@ -1,0 +1,4 @@
+﻿  D. Divisibility by 2^n.cpp
+C:\Users\Petar\Desktop\CodeForces\D. Divisibility by 2^n\D. Divisibility by 2^n\D. Divisibility by 2^n.cpp(15,19): warning C4244: '-=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Petar\Desktop\CodeForces\D. Divisibility by 2^n\D. Divisibility by 2^n\D. Divisibility by 2^n.cpp(38,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  D. Divisibility by 2^n.vcxproj -> C:\Users\Petar\Desktop\CodeForces\D. Divisibility by 2^n\x64\Debug\D. Divisibility by 2^n.exe
