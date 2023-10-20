@@ -1,0 +1,3 @@
+﻿  B. Two Buttons.cpp
+C:\Users\Petar\Desktop\B. Two Buttons\B. Two Buttons\B. Two Buttons.cpp(9,55): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  B. Two Buttons.vcxproj -> C:\Users\Petar\Desktop\B. Two Buttons\x64\Debug\B. Two Buttons.exe
