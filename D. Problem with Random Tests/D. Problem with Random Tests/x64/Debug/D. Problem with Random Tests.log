@@ -1,0 +1,4 @@
+﻿  D. Problem with Random Tests.cpp
+C:\Users\Petar\Desktop\CodeForces\D. Problem with Random Tests\D. Problem with Random Tests\D. Problem with Random Tests.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Petar\Desktop\CodeForces\D. Problem with Random Tests\D. Problem with Random Tests\D. Problem with Random Tests.cpp(19,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  D. Problem with Random Tests.vcxproj -> C:\Users\Petar\Desktop\CodeForces\D. Problem with Random Tests\x64\Debug\D. Problem with Random Tests.exe
