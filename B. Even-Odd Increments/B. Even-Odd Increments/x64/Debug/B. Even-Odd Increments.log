@@ -1,0 +1,4 @@
+﻿  B. Even-Odd Increments.cpp
+C:\Users\Petar\Desktop\CodeForces\B. Even-Odd Increments\B. Even-Odd Increments\B. Even-Odd Increments.cpp(24,34): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Petar\Desktop\CodeForces\B. Even-Odd Increments\B. Even-Odd Increments\B. Even-Odd Increments.cpp(29,36): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  B. Even-Odd Increments.vcxproj -> C:\Users\Petar\Desktop\CodeForces\B. Even-Odd Increments\x64\Debug\B. Even-Odd Increments.exe
