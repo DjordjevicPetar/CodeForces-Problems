@@ -1,0 +1,4 @@
+﻿  Word.cpp
+F:\Petar_Djordjevic\C++\Programi\CodeForces\Word\Word\Word.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+F:\Petar_Djordjevic\C++\Programi\CodeForces\Word\Word\Word.cpp(12,12): warning C4018: '>': signed/unsigned mismatch
+  Word.vcxproj -> F:\Petar_Djordjevic\C++\Programi\CodeForces\Word\Debug\Word.exe
